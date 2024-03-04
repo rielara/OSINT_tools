@@ -47,3 +47,7 @@
 
 🔳 [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
 
+## Other
+
+🥼 [JustDeleteMe](https://backgroundchecks.org/justdeleteme/) - delete your accounts from a wide range of websites.
+
