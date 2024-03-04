@@ -18,6 +18,8 @@
 
 🤍 [Forensic Magnifier](https://29a.ch/photo-forensics/#forensic-magnifier) - clone detection, error level analysis, meta data extraction and more.
 
+🤍 [Randomly Generated Identity](https://www.fakenamegenerator.com/) - create a fake persona, randomly generated, great for creating Sock Puppets.
+
 
 ## VPN and secure email
 
