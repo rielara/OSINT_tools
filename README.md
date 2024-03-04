@@ -1,17 +1,49 @@
-#  🐇 Open source intelligence tools and websites
+#  🐇 OSINT tools
 ## Websites
-🤍 [Cleanup.pictures](https://cleanup.pictures/) remove unwanted object(s), defect, people, or text from your pictures in seconds.
+🤍 [Cleanup.pictures](https://cleanup.pictures/) - remove unwanted object(s), defect, people, or text from your pictures in seconds.
 
-🤍 [Social-searcher](https://www.social-searcher.com/) look up anyone by mentions, username, or trends.
+🤍 [Social-searcher](https://www.social-searcher.com/) - look up anyone by mentions, username, or trends.
 
-🤍 [Epieos](https://epieos.com/) email and phone reverse lookup.
+🤍 [Epieos](https://epieos.com/) - email and phone reverse lookup.
 
-🤍 [CheckUsernames](https://checkusernames.com/) check the availability of your username on over 500 social networks.
+🤍 [CheckUsernames](https://checkusernames.com/) - check the availability of your username on over 500 social networks.
 
-🤍 [FaceCheck](https://facecheck.id/) find people online by photo.
+🤍 [FaceCheck](https://facecheck.id/) - find people online by photo.
 
-🤍 [PimEyes](https://pimeyes.com/en) upload a photo and find where they are published. 
+🤍 [PimEyes](https://pimeyes.com/en) - upload a photo and find pictures containing that face.
 
-🤍 [Google Dorks](https://www.exploit-db.com/google-hacking-database) discover hidden resources crawled by Google.
+🤍 [Google Dorks](https://www.exploit-db.com/google-hacking-database) - discover hidden resources crawled by Google.
 
-🤍 [WhatsMyName.app](https://whatsmyname.app/) enumerate usernames across many websites.
+🤍 [WhatsMyName.app](https://whatsmyname.app/) - enumerate usernames across many websites.
+
+🤍 [Forensic Magnifier](https://29a.ch/photo-forensics/#forensic-magnifier) - clone detection, error level analysis, meta data extraction and more.
+
+
+## VPN and secure email
+
+⚪ [Proton VPN](https://protonvpn.com/) - has a free tier, open source, no logs policy, protected by Swiss privacy laws.
+
+⚪ [Proton Mail](https://proton.me/mail) - secure and encrypted email.
+
+## Tools
+
+⬜ [GeoSpy](https://github.com/atiilla/geospy) - python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+
+⬜ [Exif Looter](https://github.com/aydinnyunus/exiflooter) - get image metadata and/or remove it, get open street map URL location from GPS.
+
+## Messaging apps
+
+💬 [Signal](https://signal.org/)
+
+## Password vaults
+
+❔ [LastPass](https://www.lastpass.com/)
+
+## Surveillance
+
+❕ [Surveillance Self Defense](https://ssd.eff.org/)
+
+## Encryption
+
+🔳 [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
+
