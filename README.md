@@ -31,6 +31,9 @@
 
 ⬜ [Exif Looter](https://github.com/aydinnyunus/exiflooter) - get image metadata and/or remove it, get open street map URL location from GPS.
 
+⬜ [HashCat](https://hashcat.net/hashcat/) - password cracking/recovery.
+
+
 ## Messaging apps
 
 💬 [Signal](https://signal.org/)
