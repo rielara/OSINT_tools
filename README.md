@@ -4,8 +4,6 @@
 
 🤍 [WhatsMyName.app](https://whatsmyname.app/) - enumerate usernames across many websites.
 
-🤍 [Social-searcher](https://www.social-searcher.com/) - look up anyone by mentions, username, or trends.
-
 🤍 [Epieos](https://epieos.com/) - email and phone reverse lookup.
 
 🤍 [CheckUsernames](https://checkusernames.com/) - check the availability of your username on over 500 social networks.
