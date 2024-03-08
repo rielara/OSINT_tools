@@ -6,7 +6,7 @@
 
 🤍 [Epieos](https://epieos.com/) - email and phone reverse lookup.
 
-🤍 [CheckUsernames](https://checkusernames.com/) - check the availability of your username on over 500 social networks.
+🤍 [CheckUsernames](https://checkusernames.com/) - check the availability of yours or someone else's username on over 500 social networks.
 
 🤍 [FaceCheck](https://facecheck.id/) - find people online by photo.
 
