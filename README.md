@@ -14,6 +14,10 @@
 
 🤍 [Google Dorks](https://www.exploit-db.com/google-hacking-database) - discover hidden resources crawled by Google.
 
+🤍 [DorkGPT](https://dorkgpt.com/) - An AI who writes Google dork scripts for you.
+
+🤍 [Temp Mail](https://temp-mail.org/) - Get a disposable email address and inbox.
+
 🤍 [WhatsMyName.app](https://whatsmyname.app/) - enumerate usernames across many websites.
 
 🤍 [Forensic Magnifier](https://29a.ch/photo-forensics/#forensic-magnifier) - clone detection, error level analysis, meta data extraction and more.
