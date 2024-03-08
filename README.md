@@ -29,6 +29,8 @@
 
 ⚪ [Proton VPN](https://protonvpn.com/) - has a free tier, open source, no logs policy, protected by Swiss privacy laws.
 
+⚪ [Urban-VPN](https://www.urban-vpn.com/) - 80+ free VPN locations
+
 ⚪ [Proton Mail](https://proton.me/mail) - secure and encrypted email.
 
 ## Tools
